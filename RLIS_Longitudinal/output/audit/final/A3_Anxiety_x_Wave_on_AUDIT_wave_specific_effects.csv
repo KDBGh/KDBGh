@@ -1,0 +1,15 @@
+model,adjusted,wave,estimate,SE,z,p,LL,UL
+A3_Anxiety_x_Wave_on_AUDIT,False,T5,0.2232,0.0705,3.1661,0.0015,0.085,0.3613
+A3_Anxiety_x_Wave_on_AUDIT,False,T6,0.0257,0.0351,0.7316,0.4644,-0.0431,0.0944
+A3_Anxiety_x_Wave_on_AUDIT,False,T7,-0.0712,0.0416,-1.7099,0.0873,-0.1528,0.0104
+A3_Anxiety_x_Wave_on_AUDIT,False,"Omnibus ANX x Wave Wald chi2(2)=17.19, p=1.85e-04",,,,,,
+A3_Anxiety_x_Wave_on_AUDIT,False,"T5 (NB, IRR=1.118)",0.1114,0.0403,2.7659,0.0057,0.0325,0.1903
+A3_Anxiety_x_Wave_on_AUDIT,False,"T6 (NB, IRR=1.024)",0.0236,0.0348,0.6794,0.4969,-0.0446,0.0919
+A3_Anxiety_x_Wave_on_AUDIT,False,"T7 (NB, IRR=0.942)",-0.0593,0.0537,-1.1034,0.2699,-0.1646,0.046
+A3_Anxiety_x_Wave_on_AUDIT,True,T5,0.2358,0.0769,3.0656,0.0022,0.085,0.3866
+A3_Anxiety_x_Wave_on_AUDIT,True,T6,0.0198,0.0334,0.5935,0.5529,-0.0456,0.0852
+A3_Anxiety_x_Wave_on_AUDIT,True,T7,-0.0824,0.0466,-1.7684,0.077,-0.1737,0.0089
+A3_Anxiety_x_Wave_on_AUDIT,True,"Omnibus ANX x Wave Wald chi2(2)=15.42, p=4.48e-04",,,,,,
+A3_Anxiety_x_Wave_on_AUDIT,True,"T5 (NB, IRR=1.144)",0.1349,0.0543,2.4839,0.013,0.0284,0.2413
+A3_Anxiety_x_Wave_on_AUDIT,True,"T6 (NB, IRR=1.031)",0.0306,0.0358,0.8555,0.3923,-0.0396,0.1009
+A3_Anxiety_x_Wave_on_AUDIT,True,"T7 (NB, IRR=0.918)",-0.086,0.0598,-1.4391,0.1501,-0.2031,0.0311

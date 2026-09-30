@@ -1,0 +1,22 @@
+,model,adjusted,term,B,SE,z_or_t,p,LL,UL,Wald_chi2
+Intercept,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,False,Intercept,-0.0952,0.0353,-2.6941,0.0071,-0.1644,-0.0259,7.2584
+zPSS,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,False,Perceived stress,0.4381,0.0354,12.3902,0.0,0.3688,0.5074,153.5174
+zEMOSUP,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,False,Emotional support,-0.136,0.0295,-4.614,0.0,-0.1938,-0.0782,21.289
+zPSS:zEMOSUP,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,False,zPSS:zEMOSUP,-0.1862,0.0409,-4.5528,0.0,-0.2663,-0.106,20.7278
+W6,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,False,Wave T6 (vs T5),0.1787,0.0445,4.0128,0.0001,0.0914,0.266,16.1028
+W7,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,False,Wave T7 (vs T5),-0.0073,0.0543,-0.1353,0.8924,-0.1138,0.0991,0.0183
+Intercept,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Intercept,0.0683,0.1406,0.4859,0.6271,-0.2073,0.3439,0.2361
+zPSS,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Perceived stress,0.4358,0.0367,11.8741,0.0,0.3639,0.5077,140.9941
+zEMOSUP,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Emotional support,-0.1337,0.0306,-4.3661,0.0,-0.1937,-0.0737,19.0624
+zPSS:zEMOSUP,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,zPSS:zEMOSUP,-0.1814,0.0431,-4.2129,0.0,-0.2658,-0.097,17.7487
+W6,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Wave T6 (vs T5),0.1873,0.0457,4.1028,0.0,0.0978,0.2768,16.8328
+W7,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Wave T7 (vs T5),-0.0258,0.0564,-0.4572,0.6475,-0.1362,0.0847,0.2091
+gender,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Male (vs female),-0.01,0.0454,-0.2199,0.826,-0.0989,0.0789,0.0483
+maristat,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Married/partnered,-0.0257,0.0592,-0.4333,0.6648,-0.1418,0.0904,0.1877
+DOCSTAT,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Documented,-0.1142,0.1292,-0.8838,0.3768,-0.3674,0.139,0.7812
+EDUHI,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Education > high school,-0.0112,0.0518,-0.2159,0.829,-0.1128,0.0904,0.0466
+EMPLOY,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Employed,-0.0249,0.0586,-0.425,0.6708,-0.1399,0.09,0.1806
+ORIG_SA,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,South American (vs Cuban),0.0385,0.0553,0.695,0.4871,-0.07,0.1469,0.483
+ORIG_CA,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Central American (vs Cuban),-0.0826,0.064,-1.29,0.197,-0.2081,0.0429,1.6641
+zAGE,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Age,0.021,0.0227,0.9267,0.3541,-0.0235,0.0655,0.8587
+zLNHINC,M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,Household income (log),-0.0253,0.0255,-0.9908,0.3218,-0.0753,0.0247,0.9817

@@ -1,0 +1,41 @@
+,model,adjusted,estimator,term,B,SE,z_or_t,p,LL,UL,IRR,IRR_LL,IRR_UL
+Intercept,A2_Stress_x_Partnered_on_AUDIT,False,GEE-normal (z-AUDIT),Intercept,0.1783,0.0796,2.2402,0.0251,0.0223,0.3343,,,
+zPSS,A2_Stress_x_Partnered_on_AUDIT,False,GEE-normal (z-AUDIT),Perceived stress,0.1956,0.0597,3.274,0.0011,0.0785,0.3127,,,
+maristat,A2_Stress_x_Partnered_on_AUDIT,False,GEE-normal (z-AUDIT),Married/partnered,-0.2279,0.0873,-2.6106,0.009,-0.399,-0.0568,,,
+zPSS:maristat,A2_Stress_x_Partnered_on_AUDIT,False,GEE-normal (z-AUDIT),zPSS:maristat,-0.2181,0.0618,-3.5324,0.0004,-0.3392,-0.0971,,,
+W6,A2_Stress_x_Partnered_on_AUDIT,False,GEE-normal (z-AUDIT),Wave T6 (vs T5),-0.1128,0.032,-3.5271,0.0004,-0.1755,-0.0501,,,
+W7,A2_Stress_x_Partnered_on_AUDIT,False,GEE-normal (z-AUDIT),Wave T7 (vs T5),0.0279,0.0455,0.614,0.5392,-0.0612,0.117,,,
+Intercept,A2_Stress_x_Partnered_on_AUDIT,False,GEE-NB(1) raw AUDIT,Intercept,1.498,0.0618,24.2252,0.0,1.3768,1.6192,4.4726,3.9621,5.0488
+zPSS,A2_Stress_x_Partnered_on_AUDIT,False,GEE-NB(1) raw AUDIT,Perceived stress,0.1352,0.0355,3.8036,0.0001,0.0655,0.2048,1.1447,1.0677,1.2273
+maristat,A2_Stress_x_Partnered_on_AUDIT,False,GEE-NB(1) raw AUDIT,Married/partnered,-0.1885,0.073,-2.5841,0.0098,-0.3315,-0.0455,0.8282,0.7179,0.9555
+zPSS:maristat,A2_Stress_x_Partnered_on_AUDIT,False,GEE-NB(1) raw AUDIT,zPSS:maristat,-0.1594,0.0397,-4.0137,0.0001,-0.2373,-0.0816,0.8526,0.7888,0.9217
+W6,A2_Stress_x_Partnered_on_AUDIT,False,GEE-NB(1) raw AUDIT,Wave T6 (vs T5),-0.1085,0.0293,-3.6976,0.0002,-0.166,-0.051,0.8972,0.8471,0.9503
+W7,A2_Stress_x_Partnered_on_AUDIT,False,GEE-NB(1) raw AUDIT,Wave T7 (vs T5),0.0393,0.0384,1.0243,0.3057,-0.0359,0.1146,1.0401,0.9647,1.1214
+Intercept,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),Intercept,-0.3656,0.1413,-2.5875,0.0097,-0.6425,-0.0887,,,
+zPSS,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),Perceived stress,0.1825,0.0619,2.9473,0.0032,0.0611,0.3039,,,
+maristat,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),Married/partnered,-0.1555,0.0852,-1.8257,0.0679,-0.3225,0.0114,,,
+zPSS:maristat,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),zPSS:maristat,-0.2094,0.0635,-3.2958,0.001,-0.3339,-0.0849,,,
+W6,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),Wave T6 (vs T5),-0.1162,0.0326,-3.5628,0.0004,-0.1801,-0.0523,,,
+W7,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),Wave T7 (vs T5),0.0267,0.047,0.5683,0.5698,-0.0654,0.1189,,,
+gender,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),Male (vs female),0.7584,0.0698,10.8669,0.0,0.6216,0.8952,,,
+DOCSTAT,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),Documented,0.0459,0.0953,0.4814,0.6303,-0.1408,0.2326,,,
+EDUHI,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),Education > high school,-0.1522,0.0728,-2.0892,0.0367,-0.295,-0.0094,,,
+EMPLOY,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),Employed,0.1149,0.0836,1.3742,0.1694,-0.049,0.2787,,,
+ORIG_SA,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),South American (vs Cuban),0.0171,0.0798,0.2138,0.8307,-0.1394,0.1735,,,
+ORIG_CA,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),Central American (vs Cuban),0.0284,0.0897,0.316,0.752,-0.1475,0.2042,,,
+zAGE,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),Age,-0.0552,0.035,-1.579,0.1143,-0.1237,0.0133,,,
+zLNHINC,A2_Stress_x_Partnered_on_AUDIT,True,GEE-normal (z-AUDIT),Household income (log),0.1026,0.0294,3.488,0.0005,0.045,0.1603,,,
+Intercept,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,Intercept,0.7487,0.1468,5.1004,0.0,0.461,1.0364,2.1142,1.5856,2.819
+zPSS,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,Perceived stress,0.143,0.0422,3.387,0.0007,0.0602,0.2257,1.1537,1.0621,1.2532
+maristat,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,Married/partnered,-0.1077,0.0807,-1.3344,0.1821,-0.2659,0.0505,0.8979,0.7665,1.0518
+zPSS:maristat,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,zPSS:maristat,-0.1629,0.0456,-3.5706,0.0004,-0.2523,-0.0735,0.8497,0.777,0.9292
+W6,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,Wave T6 (vs T5),-0.0844,0.0328,-2.5745,0.01,-0.1487,-0.0202,0.919,0.8618,0.98
+W7,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,Wave T7 (vs T5),0.057,0.0441,1.2924,0.1962,-0.0295,0.1435,1.0587,0.971,1.1544
+gender,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,Male (vs female),0.8096,0.0783,10.3383,0.0,0.6561,0.9631,2.247,1.9273,2.6197
+DOCSTAT,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,Documented,0.0474,0.0967,0.4899,0.6242,-0.1422,0.237,1.0485,0.8674,1.2675
+EDUHI,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,Education > high school,-0.1142,0.0719,-1.5874,0.1124,-0.2552,0.0268,0.8921,0.7747,1.0272
+EMPLOY,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,Employed,0.156,0.0945,1.6518,0.0986,-0.0291,0.3412,1.1689,0.9713,1.4066
+ORIG_SA,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,South American (vs Cuban),0.0668,0.0863,0.7744,0.4387,-0.1023,0.236,1.0691,0.9027,1.2661
+ORIG_CA,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,Central American (vs Cuban),0.0143,0.0825,0.1737,0.8621,-0.1474,0.176,1.0144,0.863,1.1925
+zAGE,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,Age,-0.079,0.0357,-2.2114,0.027,-0.149,-0.009,0.9241,0.8616,0.9911
+zLNHINC,A2_Stress_x_Partnered_on_AUDIT,True,GEE-NB(1) raw AUDIT,Household income (log),0.1093,0.0368,2.9666,0.003,0.0371,0.1815,1.1155,1.0378,1.199

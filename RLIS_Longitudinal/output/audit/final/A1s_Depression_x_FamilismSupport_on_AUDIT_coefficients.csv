@@ -1,0 +1,43 @@
+,model,adjusted,estimator,term,B,SE,z_or_t,p,LL,UL,IRR,IRR_LL,IRR_UL
+Intercept,A1s_Depression_x_FamilismSupport_on_AUDIT,False,GEE-normal (z-AUDIT),Intercept,0.0226,0.0446,0.5059,0.6129,-0.0648,0.1099,,,
+zDEP,A1s_Depression_x_FamilismSupport_on_AUDIT,False,GEE-normal (z-AUDIT),Depressive symptoms,0.0353,0.0265,1.33,0.1835,-0.0167,0.0872,,,
+zFAMSUP,A1s_Depression_x_FamilismSupport_on_AUDIT,False,GEE-normal (z-AUDIT),Familism support values,-0.0328,0.0214,-1.5313,0.1257,-0.0749,0.0092,,,
+zDEP:zFAMSUP,A1s_Depression_x_FamilismSupport_on_AUDIT,False,GEE-normal (z-AUDIT),zDEP:zFAMSUP,-0.0817,0.0376,-2.1711,0.0299,-0.1555,-0.0079,,,
+W6,A1s_Depression_x_FamilismSupport_on_AUDIT,False,GEE-normal (z-AUDIT),Wave T6 (vs T5),-0.1286,0.032,-4.0162,0.0001,-0.1913,-0.0658,,,
+W7,A1s_Depression_x_FamilismSupport_on_AUDIT,False,GEE-normal (z-AUDIT),Wave T7 (vs T5),0.0509,0.0448,1.1374,0.2554,-0.0368,0.1387,,,
+Intercept,A1s_Depression_x_FamilismSupport_on_AUDIT,False,GEE-NB(1) raw AUDIT,Intercept,1.377,0.0397,34.7177,0.0,1.2992,1.4547,3.9628,3.6664,4.2831
+zDEP,A1s_Depression_x_FamilismSupport_on_AUDIT,False,GEE-NB(1) raw AUDIT,Depressive symptoms,0.0221,0.02,1.103,0.27,-0.0172,0.0613,1.0223,0.983,1.0632
+zFAMSUP,A1s_Depression_x_FamilismSupport_on_AUDIT,False,GEE-NB(1) raw AUDIT,Familism support values,-0.0168,0.0178,-0.944,0.3452,-0.0517,0.0181,0.9833,0.9496,1.0183
+zDEP:zFAMSUP,A1s_Depression_x_FamilismSupport_on_AUDIT,False,GEE-NB(1) raw AUDIT,zDEP:zFAMSUP,-0.0537,0.0245,-2.192,0.0284,-0.1016,-0.0057,0.9478,0.9034,0.9943
+W6,A1s_Depression_x_FamilismSupport_on_AUDIT,False,GEE-NB(1) raw AUDIT,Wave T6 (vs T5),-0.1183,0.0293,-4.0406,0.0001,-0.1757,-0.0609,0.8884,0.8389,0.9409
+W7,A1s_Depression_x_FamilismSupport_on_AUDIT,False,GEE-NB(1) raw AUDIT,Wave T7 (vs T5),0.0452,0.0392,1.1541,0.2485,-0.0316,0.1221,1.0463,0.9689,1.1298
+Intercept,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Intercept,-0.3488,0.1395,-2.5001,0.0124,-0.6223,-0.0754,,,
+zDEP,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Depressive symptoms,0.0508,0.0297,1.7078,0.0877,-0.0075,0.109,,,
+zFAMSUP,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Familism support values,-0.0432,0.0224,-1.928,0.0539,-0.087,0.0007,,,
+zDEP:zFAMSUP,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),zDEP:zFAMSUP,-0.0895,0.0412,-2.172,0.0299,-0.1703,-0.0087,,,
+W6,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Wave T6 (vs T5),-0.1248,0.0327,-3.8208,0.0001,-0.1889,-0.0608,,,
+W7,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Wave T7 (vs T5),0.0467,0.046,1.0149,0.3101,-0.0435,0.137,,,
+gender,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Male (vs female),0.7742,0.0692,11.1844,0.0,0.6385,0.9099,,,
+maristat,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Married/partnered,-0.1449,0.0812,-1.785,0.0743,-0.3041,0.0142,,,
+DOCSTAT,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Documented,0.0129,0.0913,0.1409,0.8879,-0.1662,0.1919,,,
+EDUHI,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Education > high school,-0.1512,0.0727,-2.0803,0.0375,-0.2936,-0.0087,,,
+EMPLOY,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Employed,0.1153,0.0831,1.3877,0.1652,-0.0476,0.2782,,,
+ORIG_SA,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),South American (vs Cuban),0.0153,0.0795,0.1925,0.8473,-0.1405,0.1711,,,
+ORIG_CA,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Central American (vs Cuban),0.016,0.0887,0.1799,0.8572,-0.1579,0.1898,,,
+zAGE,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Age,-0.057,0.0346,-1.647,0.0996,-0.1248,0.0108,,,
+zLNHINC,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-normal (z-AUDIT),Household income (log),0.1012,0.0295,3.4262,0.0006,0.0433,0.1591,,,
+Intercept,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Intercept,0.758,0.1431,5.2966,0.0,0.4775,1.0385,2.134,1.6121,2.825
+zDEP,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Depressive symptoms,0.039,0.0241,1.6167,0.1059,-0.0083,0.0863,1.0398,0.9918,1.0901
+zFAMSUP,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Familism support values,-0.0164,0.0184,-0.8948,0.3709,-0.0524,0.0195,0.9837,0.949,1.0197
+zDEP:zFAMSUP,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,zDEP:zFAMSUP,-0.0661,0.0267,-2.4727,0.0134,-0.1185,-0.0137,0.936,0.8883,0.9864
+W6,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Wave T6 (vs T5),-0.091,0.0335,-2.7155,0.0066,-0.1567,-0.0253,0.913,0.855,0.975
+W7,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Wave T7 (vs T5),0.0695,0.0437,1.591,0.1116,-0.0161,0.1551,1.0719,0.984,1.1677
+gender,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Male (vs female),0.8201,0.0778,10.5366,0.0,0.6675,0.9726,2.2706,1.9494,2.6448
+maristat,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Married/partnered,-0.0976,0.0794,-1.2286,0.2192,-0.2532,0.0581,0.907,0.7763,1.0598
+DOCSTAT,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Documented,0.0202,0.0949,0.2123,0.8319,-0.1659,0.2062,1.0204,0.8471,1.229
+EDUHI,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Education > high school,-0.1097,0.0718,-1.5286,0.1264,-0.2504,0.031,0.8961,0.7785,1.0315
+EMPLOY,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Employed,0.1599,0.0946,1.6899,0.0911,-0.0256,0.3453,1.1734,0.9748,1.4124
+ORIG_SA,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,South American (vs Cuban),0.0641,0.0859,0.7461,0.4556,-0.1042,0.2324,1.0662,0.901,1.2616
+ORIG_CA,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Central American (vs Cuban),0.0069,0.0836,0.0827,0.9341,-0.1569,0.1708,1.0069,0.8548,1.1862
+zAGE,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Age,-0.0839,0.0357,-2.3521,0.0187,-0.1538,-0.014,0.9195,0.8575,0.9861
+zLNHINC,A1s_Depression_x_FamilismSupport_on_AUDIT,True,GEE-NB(1) raw AUDIT,Household income (log),0.1055,0.037,2.8514,0.0044,0.033,0.178,1.1113,1.0335,1.1949

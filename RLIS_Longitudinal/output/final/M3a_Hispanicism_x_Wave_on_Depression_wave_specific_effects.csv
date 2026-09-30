@@ -1,0 +1,9 @@
+model,adjusted,wave,estimate,SE,z,p,LL,UL
+M3a_Hispanicism_x_Wave_on_Depression,False,T5,-0.3044,0.055,-5.5381,0.0,-0.4121,-0.1967
+M3a_Hispanicism_x_Wave_on_Depression,False,T6,-0.0117,0.0491,-0.2385,0.8115,-0.1078,0.0844
+M3a_Hispanicism_x_Wave_on_Depression,False,T7,0.3341,0.0624,5.3547,0.0,0.2118,0.4565
+M3a_Hispanicism_x_Wave_on_Depression,False,"Omnibus HISP x Wave Wald chi2(2)=60.54, p=7.14e-14",,,,,,
+M3a_Hispanicism_x_Wave_on_Depression,True,T5,-0.2705,0.0581,-4.652,0.0,-0.3845,-0.1565
+M3a_Hispanicism_x_Wave_on_Depression,True,T6,-0.0433,0.0497,-0.8711,0.3837,-0.1406,0.0541
+M3a_Hispanicism_x_Wave_on_Depression,True,T7,0.3386,0.0655,5.1728,0.0,0.2103,0.4669
+M3a_Hispanicism_x_Wave_on_Depression,True,"Omnibus HISP x Wave Wald chi2(2)=52.10, p=4.87e-12",,,,,,

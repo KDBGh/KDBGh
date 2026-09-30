@@ -1,0 +1,34 @@
+,model,adjusted,term,B,SE,z_or_t,p,LL,UL,Wald_chi2
+Intercept,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,False,Intercept,-0.0477,0.0357,-1.336,0.1815,-0.1176,0.0223,1.785
+zPSS,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,False,Perceived stress,0.3347,0.0483,6.9339,0.0,0.2401,0.4293,48.0788
+zEMOSUP,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,False,Emotional support,-0.0516,0.0413,-1.249,0.2117,-0.1325,0.0294,1.56
+zPSS:zEMOSUP,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,False,zPSS:zEMOSUP,-0.0743,0.0555,-1.3382,0.1808,-0.1832,0.0345,1.7907
+W6,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,False,Wave T6 (vs T5),0.1478,0.0574,2.5742,0.01,0.0353,0.2604,6.6265
+W7,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,False,Wave T7 (vs T5),-0.2646,0.064,-4.1345,0.0,-0.39,-0.1392,17.0937
+zPSS:W6,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,False,zPSS:W6,0.1298,0.0664,1.9564,0.0504,-0.0002,0.2599,3.8274
+zPSS:W7,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,False,zPSS:W7,0.3809,0.0956,3.9837,0.0001,0.1935,0.5682,15.8695
+zEMOSUP:W6,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,False,zEMOSUP:W6,-0.1436,0.0601,-2.3895,0.0169,-0.2614,-0.0258,5.7098
+zEMOSUP:W7,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,False,zEMOSUP:W7,0.1245,0.0695,1.7924,0.0731,-0.0116,0.2606,3.2126
+zPSS:zEMOSUP:W6,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,False,zPSS:zEMOSUP:W6,-0.0846,0.0743,-1.1382,0.255,-0.2303,0.0611,1.2956
+zPSS:zEMOSUP:W7,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,False,zPSS:zEMOSUP:W7,-0.3698,0.0804,-4.5973,0.0,-0.5274,-0.2121,21.1347
+Intercept,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Intercept,0.0936,0.1354,0.6917,0.4891,-0.1717,0.359,0.4785
+zPSS,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Perceived stress,0.3314,0.0501,6.6089,0.0,0.2331,0.4296,43.6777
+zEMOSUP,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Emotional support,-0.0545,0.0413,-1.3201,0.1868,-0.1353,0.0264,1.7427
+zPSS:zEMOSUP,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,zPSS:zEMOSUP,-0.0745,0.0594,-1.2546,0.2096,-0.1909,0.0419,1.574
+W6,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Wave T6 (vs T5),0.1498,0.0589,2.5449,0.0109,0.0344,0.2651,6.4767
+W7,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Wave T7 (vs T5),-0.2869,0.0632,-4.537,0.0,-0.4109,-0.163,20.584
+zPSS:W6,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,zPSS:W6,0.1194,0.0688,1.7343,0.0829,-0.0155,0.2543,3.0079
+zPSS:W7,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,zPSS:W7,0.3817,0.1007,3.7911,0.0001,0.1844,0.5791,14.3725
+zEMOSUP:W6,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,zEMOSUP:W6,-0.1616,0.0651,-2.4812,0.0131,-0.2892,-0.0339,6.1561
+zEMOSUP:W7,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,zEMOSUP:W7,0.1446,0.067,2.1582,0.0309,0.0133,0.276,4.6577
+zPSS:zEMOSUP:W6,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,zPSS:zEMOSUP:W6,-0.0913,0.0811,-1.1251,0.2606,-0.2503,0.0677,1.2658
+zPSS:zEMOSUP:W7,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,zPSS:zEMOSUP:W7,-0.3717,0.0833,-4.4602,0.0,-0.5351,-0.2084,19.8935
+gender,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Male (vs female),-0.0298,0.045,-0.6624,0.5077,-0.118,0.0584,0.4387
+maristat,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Married/partnered,-0.041,0.0565,-0.7251,0.4684,-0.1518,0.0698,0.5258
+DOCSTAT,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Documented,-0.1104,0.1256,-0.8793,0.3792,-0.3566,0.1357,0.7732
+EDUHI,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Education > high school,-0.006,0.0504,-0.1185,0.9056,-0.1047,0.0928,0.014
+EMPLOY,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Employed,0.0055,0.0539,0.1021,0.9187,-0.1002,0.1112,0.0104
+ORIG_SA,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,South American (vs Cuban),0.0523,0.0538,0.9721,0.331,-0.0532,0.1578,0.9449
+ORIG_CA,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Central American (vs Cuban),-0.0535,0.0643,-0.8313,0.4058,-0.1795,0.0726,0.6911
+zAGE,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Age,0.0198,0.0214,0.9248,0.3551,-0.0222,0.0617,0.8553
+zLNHINC,M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety,True,Household income (log),-0.015,0.0248,-0.6036,0.5461,-0.0637,0.0337,0.3644

@@ -1,0 +1,22 @@
+,model,adjusted,term,B,SE,z_or_t,p,LL,UL,Wald_chi2
+Intercept,M2_EmotionalSupport_x_Americanism_on_Anxiety,False,Intercept,-0.1003,0.0392,-2.5607,0.0104,-0.1771,-0.0235,6.557
+zAMER,M2_EmotionalSupport_x_Americanism_on_Anxiety,False,Americanism,0.091,0.0243,3.7443,0.0002,0.0433,0.1386,14.0198
+zEMOSUP,M2_EmotionalSupport_x_Americanism_on_Anxiety,False,Emotional support,-0.2865,0.0411,-6.974,0.0,-0.367,-0.206,48.636
+zAMER:zEMOSUP,M2_EmotionalSupport_x_Americanism_on_Anxiety,False,zAMER:zEMOSUP,-0.15,0.0341,-4.3961,0.0,-0.2169,-0.0831,19.3259
+W6,M2_EmotionalSupport_x_Americanism_on_Anxiety,False,Wave T6 (vs T5),0.0882,0.0548,1.6103,0.1073,-0.0191,0.1955,2.5932
+W7,M2_EmotionalSupport_x_Americanism_on_Anxiety,False,Wave T7 (vs T5),0.2387,0.0638,3.7445,0.0002,0.1138,0.3637,14.0214
+Intercept,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Intercept,0.0185,0.1615,0.1145,0.9089,-0.298,0.335,0.0131
+zAMER,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Americanism,0.0844,0.0251,3.362,0.0008,0.0352,0.1335,11.3029
+zEMOSUP,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Emotional support,-0.3066,0.044,-6.9615,0.0,-0.3929,-0.2203,48.4626
+zAMER:zEMOSUP,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,zAMER:zEMOSUP,-0.165,0.0348,-4.7483,0.0,-0.2331,-0.0969,22.546
+W6,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Wave T6 (vs T5),0.0787,0.0561,1.4036,0.1604,-0.0312,0.1886,1.9702
+W7,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Wave T7 (vs T5),0.2109,0.067,3.1489,0.0016,0.0796,0.3422,9.9157
+gender,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Male (vs female),-0.0947,0.0562,-1.6838,0.0922,-0.2049,0.0155,2.8352
+maristat,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Married/partnered,0.0073,0.0713,0.1021,0.9187,-0.1325,0.1471,0.0104
+DOCSTAT,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Documented,-0.0456,0.1399,-0.3259,0.7445,-0.3199,0.2287,0.1062
+EDUHI,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Education > high school,0.0007,0.0618,0.0107,0.9914,-0.1204,0.1217,0.0001
+EMPLOY,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Employed,-0.0249,0.0773,-0.322,0.7475,-0.1763,0.1266,0.1037
+ORIG_SA,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,South American (vs Cuban),0.0643,0.0696,0.9238,0.3556,-0.0722,0.2008,0.8535
+ORIG_CA,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Central American (vs Cuban),-0.0778,0.0764,-1.0178,0.3088,-0.2275,0.072,1.0359
+zAGE,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Age,0.0096,0.028,0.3424,0.7321,-0.0454,0.0646,0.1172
+zLNHINC,M2_EmotionalSupport_x_Americanism_on_Anxiety,True,Household income (log),-0.0723,0.0333,-2.1698,0.03,-0.1375,-0.007,4.7082

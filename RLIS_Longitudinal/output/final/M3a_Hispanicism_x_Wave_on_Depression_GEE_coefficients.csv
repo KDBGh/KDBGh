@@ -1,0 +1,22 @@
+,model,adjusted,term,B,SE,z_or_t,p,LL,UL,Wald_chi2
+Intercept,M3a_Hispanicism_x_Wave_on_Depression,False,Intercept,0.3044,0.0598,5.0938,0.0,0.1873,0.4215,25.9464
+zHISP,M3a_Hispanicism_x_Wave_on_Depression,False,Hispanicism,-0.3044,0.055,-5.5381,0.0,-0.4121,-0.1967,30.671
+W6,M3a_Hispanicism_x_Wave_on_Depression,False,Wave T6 (vs T5),-0.3449,0.0678,-5.0839,0.0,-0.4779,-0.2119,25.846
+W7,M3a_Hispanicism_x_Wave_on_Depression,False,Wave T7 (vs T5),-0.1551,0.0893,-1.736,0.0826,-0.3301,0.02,3.0138
+zHISP:W6,M3a_Hispanicism_x_Wave_on_Depression,False,zHISP:W6,0.2927,0.0744,3.9326,0.0001,0.1468,0.4386,15.465
+zHISP:W7,M3a_Hispanicism_x_Wave_on_Depression,False,zHISP:W7,0.6386,0.0821,7.7799,0.0,0.4777,0.7994,60.5262
+Intercept,M3a_Hispanicism_x_Wave_on_Depression,True,Intercept,0.2733,0.1656,1.6503,0.0989,-0.0513,0.5979,2.7234
+zHISP,M3a_Hispanicism_x_Wave_on_Depression,True,Hispanicism,-0.2705,0.0581,-4.652,0.0,-0.3845,-0.1565,21.6415
+W6,M3a_Hispanicism_x_Wave_on_Depression,True,Wave T6 (vs T5),-0.3256,0.0699,-4.6555,0.0,-0.4627,-0.1885,21.6736
+W7,M3a_Hispanicism_x_Wave_on_Depression,True,Wave T7 (vs T5),-0.1646,0.0927,-1.7762,0.0757,-0.3462,0.017,3.1551
+zHISP:W6,M3a_Hispanicism_x_Wave_on_Depression,True,zHISP:W6,0.2272,0.0766,2.9683,0.003,0.0772,0.3773,8.8106
+zHISP:W7,M3a_Hispanicism_x_Wave_on_Depression,True,zHISP:W7,0.6091,0.0847,7.195,0.0,0.4432,0.775,51.7687
+gender,M3a_Hispanicism_x_Wave_on_Depression,True,Male (vs female),-0.1789,0.0557,-3.2133,0.0013,-0.288,-0.0698,10.3255
+maristat,M3a_Hispanicism_x_Wave_on_Depression,True,Married/partnered,0.0106,0.0713,0.1482,0.8821,-0.1291,0.1502,0.022
+DOCSTAT,M3a_Hispanicism_x_Wave_on_Depression,True,Documented,0.017,0.1299,0.1311,0.8957,-0.2375,0.2715,0.0172
+EDUHI,M3a_Hispanicism_x_Wave_on_Depression,True,Education > high school,0.1128,0.0607,1.8597,0.0629,-0.0061,0.2317,3.4583
+EMPLOY,M3a_Hispanicism_x_Wave_on_Depression,True,Employed,-0.0505,0.0804,-0.6283,0.5298,-0.2081,0.1071,0.3947
+ORIG_SA,M3a_Hispanicism_x_Wave_on_Depression,True,South American (vs Cuban),0.18,0.0737,2.4438,0.0145,0.0356,0.3244,5.972
+ORIG_CA,M3a_Hispanicism_x_Wave_on_Depression,True,Central American (vs Cuban),0.0928,0.0677,1.3708,0.1704,-0.0399,0.2256,1.879
+zAGE,M3a_Hispanicism_x_Wave_on_Depression,True,Age,-0.0069,0.0305,-0.2264,0.8209,-0.0667,0.0529,0.0512
+zLNHINC,M3a_Hispanicism_x_Wave_on_Depression,True,Household income (log),-0.0213,0.0343,-0.6199,0.5354,-0.0885,0.046,0.3842

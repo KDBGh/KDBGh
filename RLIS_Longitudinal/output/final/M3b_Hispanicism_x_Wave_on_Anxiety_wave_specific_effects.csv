@@ -1,0 +1,9 @@
+model,adjusted,wave,estimate,SE,z,p,LL,UL
+M3b_Hispanicism_x_Wave_on_Anxiety,False,T5,-0.2468,0.0555,-4.445,0.0,-0.3556,-0.138
+M3b_Hispanicism_x_Wave_on_Anxiety,False,T6,0.0753,0.0288,2.616,0.0089,0.0189,0.1318
+M3b_Hispanicism_x_Wave_on_Anxiety,False,T7,0.223,0.0738,3.0215,0.0025,0.0784,0.3677
+M3b_Hispanicism_x_Wave_on_Anxiety,False,"Omnibus HISP x Wave Wald chi2(2)=34.97, p=2.56e-08",,,,,,
+M3b_Hispanicism_x_Wave_on_Anxiety,True,T5,-0.2552,0.0613,-4.1613,0.0,-0.3753,-0.135
+M3b_Hispanicism_x_Wave_on_Anxiety,True,T6,0.0704,0.0298,2.3639,0.0181,0.012,0.1287
+M3b_Hispanicism_x_Wave_on_Anxiety,True,T7,0.2349,0.0761,3.0888,0.002,0.0859,0.384
+M3b_Hispanicism_x_Wave_on_Anxiety,True,"Omnibus HISP x Wave Wald chi2(2)=31.86, p=1.21e-07",,,,,,

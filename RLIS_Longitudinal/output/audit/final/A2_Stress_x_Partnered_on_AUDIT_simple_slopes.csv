@@ -1,0 +1,5 @@
+model,adjusted,level,estimate,SE,z,p,LL,UL
+A2_Stress_x_Partnered_on_AUDIT,False,maristat = 0,0.1956,0.0597,3.274,0.0011,0.0785,0.3127
+A2_Stress_x_Partnered_on_AUDIT,False,maristat = 1,-0.0225,0.0207,-1.0883,0.2765,-0.0631,0.018
+A2_Stress_x_Partnered_on_AUDIT,True,maristat = 0,0.1825,0.0619,2.9473,0.0032,0.0611,0.3039
+A2_Stress_x_Partnered_on_AUDIT,True,maristat = 1,-0.0269,0.0201,-1.333,0.1825,-0.0663,0.0126

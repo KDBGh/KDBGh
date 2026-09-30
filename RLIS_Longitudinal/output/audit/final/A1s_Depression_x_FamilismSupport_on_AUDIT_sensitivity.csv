@@ -1,0 +1,3 @@
+model,adjusted,linear_B,linear_p,NB_IRR,NB_p,lnAUDIT_B,lnAUDIT_p
+A1s_Depression_x_FamilismSupport_on_AUDIT,False,-0.0817,0.0299,0.9478,0.0284,-0.0436,0.0468
+A1s_Depression_x_FamilismSupport_on_AUDIT,True,-0.0895,0.0299,0.936,0.0134,-0.0491,0.0382

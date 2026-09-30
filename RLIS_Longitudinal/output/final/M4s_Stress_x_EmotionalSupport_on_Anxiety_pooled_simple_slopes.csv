@@ -1,0 +1,9 @@
+model,adjusted,moderator_level,estimate,SE,z,p,LL,UL
+M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,False,EMOSUP -1 SD,0.6243,0.0542,11.5199,0.0,0.518,0.7305
+M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,False,EMOSUP Mean,0.4381,0.0354,12.3902,0.0,0.3688,0.5074
+M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,False,EMOSUP +1 SD,0.2519,0.0539,4.6719,0.0,0.1462,0.3576
+M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,False,"J-N boundary (z, % above): []",,,,,,
+M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,EMOSUP -1 SD,0.6172,0.0562,10.9804,0.0,0.507,0.7274
+M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,EMOSUP Mean,0.4358,0.0367,11.8741,0.0,0.3639,0.5077
+M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,EMOSUP +1 SD,0.2544,0.0569,4.4681,0.0,0.1428,0.366
+M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled,True,"J-N boundary (z, % above): []",,,,,,

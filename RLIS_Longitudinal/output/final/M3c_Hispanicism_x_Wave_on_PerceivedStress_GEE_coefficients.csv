@@ -1,0 +1,22 @@
+,model,adjusted,term,B,SE,z_or_t,p,LL,UL,Wald_chi2
+Intercept,M3c_Hispanicism_x_Wave_on_PerceivedStress,False,Intercept,0.2199,0.0616,3.5691,0.0004,0.0992,0.3407,12.7385
+zHISP,M3c_Hispanicism_x_Wave_on_PerceivedStress,False,Hispanicism,-0.325,0.0572,-5.6811,0.0,-0.4371,-0.2128,32.2748
+W6,M3c_Hispanicism_x_Wave_on_PerceivedStress,False,Wave T6 (vs T5),-0.6084,0.0708,-8.5924,0.0,-0.7472,-0.4697,73.83
+W7,M3c_Hispanicism_x_Wave_on_PerceivedStress,False,Wave T7 (vs T5),0.1894,0.0804,2.3552,0.0185,0.0318,0.347,5.5469
+zHISP:W6,M3c_Hispanicism_x_Wave_on_PerceivedStress,False,zHISP:W6,0.2899,0.0799,3.6278,0.0003,0.1333,0.4465,13.1612
+zHISP:W7,M3c_Hispanicism_x_Wave_on_PerceivedStress,False,zHISP:W7,0.3882,0.0701,5.5385,0.0,0.2508,0.5256,30.6748
+Intercept,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,Intercept,0.1615,0.1456,1.1094,0.2673,-0.1238,0.4469,1.2308
+zHISP,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,Hispanicism,-0.3275,0.059,-5.5481,0.0,-0.4432,-0.2118,30.7812
+W6,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,Wave T6 (vs T5),-0.6298,0.0729,-8.6336,0.0,-0.7728,-0.4868,74.5387
+W7,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,Wave T7 (vs T5),0.1599,0.0837,1.9096,0.0562,-0.0042,0.3241,3.6464
+zHISP:W6,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,zHISP:W6,0.2817,0.0824,3.4195,0.0006,0.1202,0.4432,11.6928
+zHISP:W7,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,zHISP:W7,0.3795,0.0733,5.1777,0.0,0.2358,0.5231,26.8085
+gender,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,Male (vs female),-0.1663,0.0543,-3.0633,0.0022,-0.2727,-0.0599,9.384
+maristat,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,Married/partnered,0.0394,0.0598,0.6592,0.5098,-0.0778,0.1567,0.4345
+DOCSTAT,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,Documented,-0.0052,0.0955,-0.0543,0.9567,-0.1924,0.182,0.003
+EDUHI,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,Education > high school,0.0431,0.0552,0.7808,0.4349,-0.0651,0.1513,0.6096
+EMPLOY,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,Employed,0.0652,0.076,0.8571,0.3914,-0.0839,0.2142,0.7345
+ORIG_SA,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,South American (vs Cuban),0.1309,0.0695,1.884,0.0596,-0.0053,0.2671,3.5494
+ORIG_CA,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,Central American (vs Cuban),0.092,0.0651,1.4137,0.1575,-0.0356,0.2196,1.9985
+zAGE,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,Age,-0.069,0.0304,-2.2653,0.0235,-0.1286,-0.0093,5.1316
+zLNHINC,M3c_Hispanicism_x_Wave_on_PerceivedStress,True,Household income (log),0.0303,0.0326,0.9305,0.3521,-0.0335,0.0942,0.8659

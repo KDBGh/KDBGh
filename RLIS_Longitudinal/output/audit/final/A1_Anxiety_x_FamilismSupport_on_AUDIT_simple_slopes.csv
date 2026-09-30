@@ -1,0 +1,9 @@
+model,adjusted,level,estimate,SE,z,p,LL,UL
+A1_Anxiety_x_FamilismSupport_on_AUDIT,False,-1 SD,0.1582,0.0651,2.4307,0.0151,0.0306,0.2857
+A1_Anxiety_x_FamilismSupport_on_AUDIT,False,Mean,0.0434,0.0325,1.3373,0.1811,-0.0202,0.107
+A1_Anxiety_x_FamilismSupport_on_AUDIT,False,+1 SD,-0.0714,0.0301,-2.3692,0.0178,-0.1304,-0.0123
+A1_Anxiety_x_FamilismSupport_on_AUDIT,False,"J-N (z, % above) [(np.float64(-0.352), 66.4), (np.float64(0.838), 42.0)]",,,,,,
+A1_Anxiety_x_FamilismSupport_on_AUDIT,True,-1 SD,0.1767,0.075,2.3552,0.0185,0.0296,0.3237
+A1_Anxiety_x_FamilismSupport_on_AUDIT,True,Mean,0.05,0.0359,1.3955,0.1629,-0.0202,0.1203
+A1_Anxiety_x_FamilismSupport_on_AUDIT,True,+1 SD,-0.0766,0.0296,-2.5876,0.0097,-0.1346,-0.0186
+A1_Anxiety_x_FamilismSupport_on_AUDIT,True,"J-N (z, % above) [(np.float64(-0.366), 66.4), (np.float64(0.784), 42.0)]",,,,,,

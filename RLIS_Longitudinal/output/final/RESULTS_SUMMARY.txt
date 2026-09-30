@@ -1,0 +1,24 @@
+M1a_Religiosity_x_Stress_on_Depression UNADJ: N_obs=1508 N_persons=518 PSSxRELIG B=-0.164 SE=0.017 p=5.70e-21
+M1a_Religiosity_x_Stress_on_Depression ADJ: N_obs=1415 N_persons=485 PSSxRELIG B=-0.177 SE=0.018 p=1.27e-22
+M1b_Religiosity_x_Stress_on_Anxiety UNADJ: N_obs=1506 N_persons=518 PSSxRELIG B=-0.282 SE=0.023 p=5.81e-35
+M1b_Religiosity_x_Stress_on_Anxiety ADJ: N_obs=1413 N_persons=485 PSSxRELIG B=-0.289 SE=0.024 p=1.98e-34
+M2_EmotionalSupport_x_Americanism_on_Anxiety UNADJ: N_obs=1496 N_persons=518 AMERxEMOSUP B=-0.150 SE=0.034 p=1.10e-05
+M2_EmotionalSupport_x_Americanism_on_Anxiety ADJ: N_obs=1403 N_persons=485 AMERxEMOSUP B=-0.165 SE=0.035 p=2.05e-06
+M3a_Hispanicism_x_Wave_on_Depression UNADJ: HISP x Wave Wald chi2(2)=60.54 p=7.14e-14
+M3a_Hispanicism_x_Wave_on_Depression ADJ: HISP x Wave Wald chi2(2)=52.10 p=4.87e-12
+M3b_Hispanicism_x_Wave_on_Anxiety UNADJ: HISP x Wave Wald chi2(2)=34.97 p=2.56e-08
+M3b_Hispanicism_x_Wave_on_Anxiety ADJ: HISP x Wave Wald chi2(2)=31.86 p=1.21e-07
+M3c_Hispanicism_x_Wave_on_PerceivedStress UNADJ: HISP x Wave Wald chi2(2)=31.20 p=1.68e-07
+M3c_Hispanicism_x_Wave_on_PerceivedStress ADJ: HISP x Wave Wald chi2(2)=27.40 p=1.12e-06
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression UNADJ: PSS x HISP x Wave Wald chi2(2)=49.52 p=1.77e-11
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression ADJ: PSS x HISP x Wave Wald chi2(2)=48.62 p=2.76e-11
+M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety UNADJ: PSS x EMOSUP x Wave Wald chi2(2)=22.55 p=1.27e-05
+M4_Stress_x_EmotionalSupport_x_Wave_on_Anxiety ADJ: PSS x EMOSUP x Wave Wald chi2(2)=21.11 p=2.61e-05
+M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled UNADJ: N_obs=1513 N_persons=518 PSSxEMOSUP B=-0.186 SE=0.041 p=5.29e-06
+M4s_Stress_x_EmotionalSupport_on_Anxiety_pooled ADJ: N_obs=1420 N_persons=485 PSSxEMOSUP B=-0.181 SE=0.043 p=2.52e-05
+M5_NeighborhoodSafety_SocialSupport_Stress Y=PSS UNADJ: n=491 a=0.116(p=0.026) b=-0.140(p=0.006) ab=-0.0162 95%CI[-0.0370,-0.0011]
+M5_NeighborhoodSafety_SocialSupport_Stress Y=PSS ADJ: n=462 a=0.166(p=0.004) b=-0.173(p=0.001) ab=-0.0287 95%CI[-0.0572,-0.0076]
+M5_NeighborhoodSafety_SocialSupport_Stress Y=DEP UNADJ: n=491 a=0.117(p=0.023) b=-0.104(p=0.070) ab=-0.0123 95%CI[-0.0311,0.0011]
+M5_NeighborhoodSafety_SocialSupport_Stress Y=DEP ADJ: n=462 a=0.161(p=0.004) b=-0.121(p=0.048) ab=-0.0194 95%CI[-0.0446,-0.0007]
+M5_NeighborhoodSafety_SocialSupport_Stress Y=ANX UNADJ: n=490 a=0.110(p=0.029) b=-0.105(p=0.063) ab=-0.0116 95%CI[-0.0303,0.0008]
+M5_NeighborhoodSafety_SocialSupport_Stress Y=ANX ADJ: n=461 a=0.151(p=0.004) b=-0.132(p=0.031) ab=-0.0199 95%CI[-0.0455,-0.0019]

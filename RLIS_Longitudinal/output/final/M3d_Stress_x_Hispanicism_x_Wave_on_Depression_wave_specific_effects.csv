@@ -1,0 +1,21 @@
+model,adjusted,wave,quantity,estimate,SE,z,p,LL,UL
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,False,T5,PSS x HISP interaction,-0.171,0.0404,-4.2333,0.0,-0.2501,-0.0918
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,False,T5,slope of PSS at HISP -1 SD,0.6625,0.0736,8.9983,0.0,0.5182,0.8068
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,False,T5,slope of PSS at HISP +1 SD,0.3205,0.0407,7.8682,0.0,0.2407,0.4004
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,False,T6,PSS x HISP interaction,0.1119,0.0334,3.3504,0.0008,0.0464,0.1774
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,False,T6,slope of PSS at HISP -1 SD,0.6099,0.0513,11.8827,0.0,0.5093,0.7106
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,False,T6,slope of PSS at HISP +1 SD,0.8337,0.0509,16.3907,0.0,0.734,0.9334
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,False,T7,PSS x HISP interaction,0.2833,0.0714,3.9712,0.0001,0.1435,0.4232
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,False,T7,slope of PSS at HISP -1 SD,0.445,0.0842,5.2828,0.0,0.2799,0.6101
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,False,T7,slope of PSS at HISP +1 SD,1.0117,0.116,8.7252,0.0,0.7844,1.239
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,False,"Omnibus PSS x HISP x Wave Wald chi2(2)=49.52, p=1.77e-11",,,,,,,
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,True,T5,PSS x HISP interaction,-0.1672,0.0421,-3.9711,0.0001,-0.2497,-0.0847
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,True,T5,slope of PSS at HISP -1 SD,0.6392,0.0758,8.4285,0.0,0.4905,0.7878
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,True,T5,slope of PSS at HISP +1 SD,0.3048,0.0411,7.4121,0.0,0.2242,0.3855
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,True,T6,PSS x HISP interaction,0.1157,0.034,3.397,0.0007,0.0489,0.1824
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,True,T6,slope of PSS at HISP -1 SD,0.6007,0.054,11.1146,0.0,0.4948,0.7066
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,True,T6,slope of PSS at HISP +1 SD,0.832,0.0538,15.4611,0.0,0.7265,0.9375
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,True,T7,PSS x HISP interaction,0.3076,0.0747,4.1198,0.0,0.1613,0.4539
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,True,T7,slope of PSS at HISP -1 SD,0.411,0.0869,4.7304,0.0,0.2407,0.5814
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,True,T7,slope of PSS at HISP +1 SD,1.0262,0.1174,8.7408,0.0,0.7961,1.2563
+M3d_Stress_x_Hispanicism_x_Wave_on_Depression,True,"Omnibus PSS x HISP x Wave Wald chi2(2)=48.62, p=2.76e-11",,,,,,,

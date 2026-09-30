@@ -1,0 +1,9 @@
+model,adjusted,level,estimate,SE,z,p,LL,UL
+A1s_Depression_x_FamilismSupport_on_AUDIT,False,-1 SD,0.117,0.0585,2.0002,0.0455,0.0023,0.2316
+A1s_Depression_x_FamilismSupport_on_AUDIT,False,Mean,0.0353,0.0265,1.33,0.1835,-0.0167,0.0872
+A1s_Depression_x_FamilismSupport_on_AUDIT,False,+1 SD,-0.0465,0.0286,-1.6238,0.1044,-0.1025,0.0096
+A1s_Depression_x_FamilismSupport_on_AUDIT,False,"J-N (z, % above) [(np.float64(-0.819), 74.0)]",,,,,,
+A1s_Depression_x_FamilismSupport_on_AUDIT,True,-1 SD,0.1403,0.066,2.1263,0.0335,0.011,0.2696
+A1s_Depression_x_FamilismSupport_on_AUDIT,True,Mean,0.0508,0.0297,1.7078,0.0877,-0.0075,0.109
+A1s_Depression_x_FamilismSupport_on_AUDIT,True,+1 SD,-0.0387,0.0285,-1.3599,0.1739,-0.0946,0.0171
+A1s_Depression_x_FamilismSupport_on_AUDIT,True,"J-N (z, % above) [(np.float64(-0.299), 66.4)]",,,,,,

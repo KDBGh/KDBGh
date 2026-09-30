@@ -1,0 +1,9 @@
+model,adjusted,moderator_level,estimate,SE,z,p,LL,UL
+M1b_Religiosity_x_Stress_on_Anxiety,False,RELIG -1 SD,0.7283,0.0363,20.0429,0.0,0.6571,0.7995
+M1b_Religiosity_x_Stress_on_Anxiety,False,RELIG Mean,0.4461,0.0291,15.314,0.0,0.389,0.5032
+M1b_Religiosity_x_Stress_on_Anxiety,False,RELIG +1 SD,0.1639,0.0377,4.3454,0.0,0.09,0.2379
+M1b_Religiosity_x_Stress_on_Anxiety,False,"J-N boundary (z, % above): []",,,,,,
+M1b_Religiosity_x_Stress_on_Anxiety,True,RELIG -1 SD,0.7385,0.0371,19.9072,0.0,0.6658,0.8112
+M1b_Religiosity_x_Stress_on_Anxiety,True,RELIG Mean,0.4495,0.0305,14.7565,0.0,0.3898,0.5092
+M1b_Religiosity_x_Stress_on_Anxiety,True,RELIG +1 SD,0.1604,0.0399,4.0161,0.0001,0.0821,0.2387
+M1b_Religiosity_x_Stress_on_Anxiety,True,"J-N boundary (z, % above): []",,,,,,

@@ -1,0 +1,10 @@
+variable,n,value
+Male (vs female),514,53.7%
+Married/partnered,518,68.3%
+Documented,517,94.6%
+Education > high school,516,48.3%
+Employed,518,79.7%
+South American (vs Cuban),507,28.2%
+Central American (vs Cuban),507,30.0%
+AGE,518,"M=35.23, SD=5.08"
+LNHINC,499,"M=9.63, SD=2.89"

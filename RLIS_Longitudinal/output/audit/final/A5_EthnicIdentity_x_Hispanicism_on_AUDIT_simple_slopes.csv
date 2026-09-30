@@ -1,0 +1,9 @@
+model,adjusted,level,estimate,SE,z,p,LL,UL
+A5_EthnicIdentity_x_Hispanicism_on_AUDIT,False,-1 SD,-0.0508,0.0311,-1.6331,0.1025,-0.1119,0.0102
+A5_EthnicIdentity_x_Hispanicism_on_AUDIT,False,Mean,-0.019,0.0245,-0.7731,0.4395,-0.0671,0.0291
+A5_EthnicIdentity_x_Hispanicism_on_AUDIT,False,+1 SD,0.0129,0.0261,0.4931,0.6219,-0.0383,0.0641
+A5_EthnicIdentity_x_Hispanicism_on_AUDIT,False,"J-N (z, % above) [(np.float64(-2.008), 96.6)]",,,,,,
+A5_EthnicIdentity_x_Hispanicism_on_AUDIT,True,-1 SD,-0.0676,0.0309,-2.1862,0.0288,-0.1281,-0.007
+A5_EthnicIdentity_x_Hispanicism_on_AUDIT,True,Mean,-0.0205,0.0223,-0.9195,0.3579,-0.0641,0.0232
+A5_EthnicIdentity_x_Hispanicism_on_AUDIT,True,+1 SD,0.0266,0.0231,1.1519,0.2494,-0.0187,0.072
+A5_EthnicIdentity_x_Hispanicism_on_AUDIT,True,"J-N (z, % above) [(np.float64(-0.728), 75.4)]",,,,,,

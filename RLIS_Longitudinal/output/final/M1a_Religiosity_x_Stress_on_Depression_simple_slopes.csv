@@ -1,0 +1,9 @@
+model,adjusted,moderator_level,estimate,SE,z,p,LL,UL
+M1a_Religiosity_x_Stress_on_Depression,False,RELIG -1 SD,0.7021,0.0297,23.6618,0.0,0.6439,0.7602
+M1a_Religiosity_x_Stress_on_Depression,False,RELIG Mean,0.5378,0.0273,19.722,0.0,0.4843,0.5912
+M1a_Religiosity_x_Stress_on_Depression,False,RELIG +1 SD,0.3734,0.0349,10.699,0.0,0.305,0.4418
+M1a_Religiosity_x_Stress_on_Depression,False,"J-N boundary (z, % above): []",,,,,,
+M1a_Religiosity_x_Stress_on_Depression,True,RELIG -1 SD,0.6984,0.0306,22.8495,0.0,0.6385,0.7583
+M1a_Religiosity_x_Stress_on_Depression,True,RELIG Mean,0.5213,0.0276,18.899,0.0,0.4672,0.5754
+M1a_Religiosity_x_Stress_on_Depression,True,RELIG +1 SD,0.3443,0.0352,9.7681,0.0,0.2752,0.4133
+M1a_Religiosity_x_Stress_on_Depression,True,"J-N boundary (z, % above): []",,,,,,

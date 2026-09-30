@@ -1,0 +1,9 @@
+model,adjusted,moderator_level,estimate,SE,z,p,LL,UL
+M2_EmotionalSupport_x_Americanism_on_Anxiety,False,EMOSUP -1 SD,0.241,0.0447,5.3873,0.0,0.1533,0.3286
+M2_EmotionalSupport_x_Americanism_on_Anxiety,False,EMOSUP Mean,0.091,0.0243,3.7443,0.0002,0.0433,0.1386
+M2_EmotionalSupport_x_Americanism_on_Anxiety,False,EMOSUP +1 SD,-0.0591,0.0388,-1.5207,0.1283,-0.1352,0.0171
+M2_EmotionalSupport_x_Americanism_on_Anxiety,False,"J-N boundary (z, % above): [(np.float64(0.283), 36.5), (np.float64(1.178), 24.5)]",,,,,,
+M2_EmotionalSupport_x_Americanism_on_Anxiety,True,EMOSUP -1 SD,0.2494,0.047,5.3041,0.0,0.1572,0.3415
+M2_EmotionalSupport_x_Americanism_on_Anxiety,True,EMOSUP Mean,0.0844,0.0251,3.362,0.0008,0.0352,0.1335
+M2_EmotionalSupport_x_Americanism_on_Anxiety,True,EMOSUP +1 SD,-0.0807,0.0383,-2.108,0.035,-0.1557,-0.0057
+M2_EmotionalSupport_x_Americanism_on_Anxiety,True,"J-N boundary (z, % above): [(np.float64(0.219), 36.5), (np.float64(0.95), 26.3)]",,,,,,
